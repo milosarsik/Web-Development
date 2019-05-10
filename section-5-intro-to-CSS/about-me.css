@@ -1,0 +1,20 @@
+h1{
+	color: red;
+	border: 8px dashed rgb(255,100,80);
+}
+
+li{
+	color: #FF0000;
+}
+
+h3{
+	color: rgb(11,99,150,.6);
+}
+body{
+	/* background: pink; */
+	background: url(https://previews.123rf.com/images/alicjane/alicjane1710/alicjane171000272/87929529-winter-texture-snow-background.jpg);
+	/* background-repeat: no-repeat;
+	background-size: cover;*/
+}
+
+/* (11,99,150, .5) The last option is the alpha (transaparency), 1 is max, 0 is low */

@@ -1,0 +1,39 @@
+/* Elements */
+li{
+	border: 2px solid red;
+}
+
+/* Class */
+#special{
+	background: yellow;
+}
+
+/* ID */
+.completed{
+	text-decoration: line-through;
+}
+
+/* Stars - this will select everything on the page*/
+*{
+	border: 1px solid lightgrey;
+}
+
+/* Descendant Selectors - selects anythign under*/
+li a{
+	color: red;
+}
+
+/* Adjacent Selectors - selects the next element*/
+h4 + ul{
+	border: 4px solid red;
+}
+
+/* Attribute Selectors */
+a[href="https://www.google.com"]{
+	background: blue;
+}
+
+/* nth of Types - takes every nth of a specific type, instead of 3, it can be "even", every even one*/
+ul:nth-of-type(3){
+	background: purple;
+}
