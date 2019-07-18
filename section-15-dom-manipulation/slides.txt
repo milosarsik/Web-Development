@@ -1,0 +1,6 @@
+Introduction to the DOM - http://webdev.slides.com/coltsteele/intro-to-the-dom-70
+
+Important Selector Methods - http://webdev.slides.com/coltsteele/deck-30-71
+
+Manipulating Style - http://webdev.slides.com/coltsteele/deck-30-31-72
+
